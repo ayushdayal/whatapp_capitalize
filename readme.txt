@@ -1,4 +1,4 @@
-this program can be use to convert normal text into capital and bold test for whatsapp
+this program can be use to convert normal text into capital and bold text for whatsapp
 to use this program
 1. Your system should have c++ latest version
 2. to run this program run this command in terminal "gcc main.cpp"
